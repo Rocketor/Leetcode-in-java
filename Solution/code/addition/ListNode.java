@@ -1,9 +1,5 @@
 package addition;
 
-/**
- * @author Gary.Chao
- * @version 1.0.0
- */
 public class ListNode {
     public int val;
     public ListNode next;
@@ -11,7 +7,7 @@ public class ListNode {
     public ListNode() {
     }
 
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 
