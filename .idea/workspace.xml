@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution/code/GetIntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/code/KthToLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
@@ -84,7 +79,7 @@
       <updated>1591767133827</updated>
       <workItem from="1591767137350" duration="5440000" />
       <workItem from="1591844213627" duration="8505000" />
-      <workItem from="1591940045222" duration="3862000" />
+      <workItem from="1591940045222" duration="4543000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1591770276469</created>
@@ -100,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591857071276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="面试题02.02/02.07">
+      <created>1591944010190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591944010190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,20 +118,36 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="面试题02.04/02.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试题02.04/02.08" />
+    <MESSAGE value="面试题02.02/02.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题02.02/02.07" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="153" y="0" key="#Deployment" timestamp="1591944702235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="0" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1591944702235" />
     <state x="275" y="26" key="#Project_Structure" timestamp="1591767140997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591767140997" />
-    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1591944008962">
+    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1591944703599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591944008962" />
+    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591944703599" />
     <state x="129" y="60" key="DiffContextDialog" timestamp="1591770271714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
