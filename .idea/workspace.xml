@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="" />
+    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +58,20 @@
     <property name="project.structure.side.proportion" value="0.22873563" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
+  <component name="RunManager">
+    <configuration name="DeleteNonDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteNonDuplicates" />
+      <module name="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteNonDuplicates" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -79,7 +96,10 @@
       <updated>1591767133827</updated>
       <workItem from="1591767137350" duration="5440000" />
       <workItem from="1591844213627" duration="8505000" />
-      <workItem from="1591940045222" duration="4543000" />
+      <workItem from="1591940045222" duration="5930000" />
+      <workItem from="1592283875863" duration="3459000" />
+      <workItem from="1592292731248" duration="1595000" />
+      <workItem from="1592370572167" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1591770276469</created>
@@ -102,7 +122,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591944010190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update README.md">
+      <created>1591944766958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591944766958</updated>
+    </task>
+    <task id="LOCAL-00005" summary="83. 删除排序链表中的重复元素">
+      <created>1592297503842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592297503842</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README.md">
+      <created>1592297641642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592297641642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +164,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -133,25 +176,43 @@
     <MESSAGE value="1" />
     <MESSAGE value="面试题02.04/02.08" />
     <MESSAGE value="面试题02.02/02.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="面试题02.02/02.07" />
+    <MESSAGE value="83. 删除排序链表中的重复元素" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="153" y="0" key="#Deployment" timestamp="1591944702235">
+    <state x="153" y="0" key="#Deployment" timestamp="1592297333286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="153" y="0" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1591944702235" />
+    <state x="153" y="0" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1592297333286" />
     <state x="275" y="26" key="#Project_Structure" timestamp="1591767140997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591767140997" />
-    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1591944703599">
+    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1592297640457">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591944703599" />
-    <state x="129" y="60" key="DiffContextDialog" timestamp="1591770271714">
+    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592297640457" />
+    <state x="129" y="60" key="DiffContextDialog" timestamp="1592297339563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="60" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591770271714" />
+    <state x="129" y="60" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1592297339563" />
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom" timestamp="1592371243984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592371243984" />
+    <state width="1323" height="325" key="GridCell.Tab.0.center" timestamp="1592371243983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592371243983" />
+    <state width="1323" height="325" key="GridCell.Tab.0.left" timestamp="1592371243983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592371243983" />
+    <state width="1323" height="325" key="GridCell.Tab.0.right" timestamp="1592371243984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592371243984" />
     <state x="555" y="77" key="RollbackChangesDialog" timestamp="1591770268402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,6 +221,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591856831688" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1591944778950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591944778950" />
     <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591857353002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,9 +233,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="58" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591767173659" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591943800736">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592371941237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591943800736" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592371941237" />
   </component>
 </project>
