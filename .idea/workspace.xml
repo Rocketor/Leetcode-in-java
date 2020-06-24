@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="" />
+    <list default="true" id="382c1f35-ddde-4c5b-8ea5-9a291d127bde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Solution/code/RemoveNthFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +87,7 @@
       <workItem from="1592283875863" duration="3459000" />
       <workItem from="1592292731248" duration="1595000" />
       <workItem from="1592370572167" duration="3424000" />
-      <workItem from="1592980479183" duration="681000" />
+      <workItem from="1592980479183" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1591770276469</created>
@@ -134,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592981136763</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update README.md">
+      <created>1592981254125</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592981254125</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,9 +179,9 @@
     <MESSAGE value="面试题02.04/02.08" />
     <MESSAGE value="面试题02.02/02.07" />
     <MESSAGE value="83. 删除排序链表中的重复元素" />
-    <MESSAGE value="update README.md" />
     <MESSAGE value="2.两数相加" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.两数相加" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="153" y="0" key="#Deployment" timestamp="1592980922830">
@@ -185,10 +196,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592980822891" />
-    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1592981135406">
+    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1592982757149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592981135406" />
+    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592982757149" />
     <state x="129" y="60" key="DiffContextDialog" timestamp="1592297339563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -217,10 +228,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591856831688" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1592981156301">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1592981275694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592981156301" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592981275694" />
     <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591857353002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
